@@ -1,3 +1,3 @@
 # hello-world
-Exercise HTML: Spanish Poem about Daisy
+Exercises with basic HTML&CSS
 
