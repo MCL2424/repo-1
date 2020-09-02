@@ -1,0 +1,24 @@
+/*CSS- Parte dos del module 3*/
+body, html {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.female {
+  color: blue;
+}
+.male {
+  color: red;
+}
+.bold {
+  font-weight: bold;
+}
+.italicized {
+  font-style: italic;
+}
+#middlemarch li {
+   list-style-type: lower-roman;
+   margin-left: 50px;
+  
+}
+#taletwocities li {
+    list-style-type: upper-alpha;
+}
