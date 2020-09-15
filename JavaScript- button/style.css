@@ -1,0 +1,16 @@
+h1 {
+  color:#606060;
+  background-color:rgb(40,40,40,0.05);
+  border:3px dashed rgb(206, 195, 42);
+  padding: 10px;
+  border-radius: 25px;
+  text-align: center;
+}
+
+p, h1 {
+  font-family: Monserrat 
+}
+
+p, img, button {
+  margin-left:50px;
+}
