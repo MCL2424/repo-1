@@ -1,0 +1,15 @@
+li:hover {
+  background-color: yellow;
+}
+a:link {
+  color: blue;
+}
+a:visited {
+  color: gray;
+}
+input:focus {
+  background-color: blue;
+}
+p:active {
+  color: yellow;
+}
