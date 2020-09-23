@@ -1,0 +1,26 @@
+body {
+  background-color: #F8EEE7;
+}
+header p:hover, footer p:hover {
+  background-color: #F4DECB;
+  border: none;
+}
+section p:hover {
+  background-color: #94618E;
+  color: #F8EEE7;
+  border:none;
+}
+article p:hover {
+  background-color: #49274A;  
+  color: white;
+  border: none;
+}
+ #specific:hover {
+  background-color: #FFFFFF;
+  color: #49274A;
+  border:none;
+}
+p {
+  background-color: #B4DBC0;
+  border: 2px dashed black;
+}
